@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "579515320353",
+    "firebase_url": "https://fir-textingapp.firebaseio.com",
+    "project_id": "fir-textingapp",
+    "storage_bucket": "fir-textingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579515320353:android:338fae3aea461ccf",
+        "android_client_info": {
+          "package_name": "com.example.shivank.firebasetextingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579515320353-sunpu89ptkac88a44d01rjqh8hce3ukl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shivank.firebasetextingapp",
+            "certificate_hash": "c4264e6041a07039174dd459e89ebc1ab9cc0159"
+          }
+        },
+        {
+          "client_id": "579515320353-jnolrhdfavu2id5sq966jcunb8aog52k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEjlYJ4Sh9oMoD2TRdMtXdBHQNmX6-feE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579515320353-jnolrhdfavu2id5sq966jcunb8aog52k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
